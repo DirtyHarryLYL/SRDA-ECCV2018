@@ -1,8 +1,8 @@
-# Dataset: Instance-60k & 3D Object Models in our ECCV2018 paper SRDA
+# Dataset: Instance-60k & 3D Object Models from SRDA
 
 **SRDA: Generating Instance Segmentation Annotation via Scanning, Reasoning and Domain Adaptation**
 
-Wenqiang Xu*, Yong-Lu Li*, Cewu Lu. (*=equal contribution)
+Wenqiang Xu*, Yong-Lu Li*, Cewu Lu. (*=equal contribution) ECCV2018
 
 Google Drive: [[Instance-60k & 3D Object Models]](https://drive.google.com/drive/folders/1t941oiLk40XQX2Q9a2HPmiDRUpiwazJO?usp=sharing)
 
