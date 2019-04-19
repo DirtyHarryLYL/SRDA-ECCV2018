@@ -2,7 +2,9 @@
 
 **SRDA: Generating Instance Segmentation Annotation via Scanning, Reasoning and Domain Adaptation**
 
-Wenqiang Xu*, Yong-Lu Li*, Cewu Lu. (*=equal contribution) ECCV2018
+Wenqiang Xu*, Yong-Lu Li*, Cewu Lu. (*=equal contribution) 
+
+ECCV2018
 
 Google Drive: [[Instance-60k & 3D Object Models]](https://drive.google.com/drive/folders/1t941oiLk40XQX2Q9a2HPmiDRUpiwazJO?usp=sharing)
 
