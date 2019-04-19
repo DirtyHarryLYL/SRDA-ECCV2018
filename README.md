@@ -8,7 +8,7 @@ Wenqiang Xu*, Yong-Lu Li*, Cewu Lu. (*=equal contribution)
 Google Drive: [[Instance-60k & 3D Object Models]](https://drive.google.com/drive/folders/1t941oiLk40XQX2Q9a2HPmiDRUpiwazJO?usp=sharing)
 
 ## Citation
-If you find our works useful in your research, please consider citing:
+If you find our work useful in your research, please consider citing:
 ```
 @inproceedings{xu2018srda,
   title={SRDA: Generating Instance Segmentation Annotation via Scanning, Reasoning and Domain Adaptation},
