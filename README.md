@@ -1,5 +1,4 @@
-# SRDA
-## Dataset in our ECCV2018 paper: 
+# Dataset: Instance-60k & 3D Object Models in our ECCV2018 paper SRDA
 
 **SRDA: Generating Instance Segmentation Annotation via Scanning, Reasoning and Domain Adaptation**
 
