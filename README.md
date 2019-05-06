@@ -12,7 +12,7 @@ The 3D object models are reconstructed through Structure from Motion (SfM), Mult
 
 ![Overview](https://github.com/DirtyHarryLYL/SRDA-Dataset/blob/master/img/overview.PNG)
 
-Process:
+3D Reconstruction Process:
 
 iPhone video sequence --(SfM)--> Sparse Point Cloud --(MVS)--> Dense Point Cloud --(Possion SR)--> Mesh --(UV Mapping)--> Rough Model --(Semi-automatic Edited) --> Final Model
 
