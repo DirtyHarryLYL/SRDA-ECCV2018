@@ -10,6 +10,8 @@ Google Drive: [[Instance-60k & 3D Object Models]](https://drive.google.com/drive
 
 The 3D object models are reconstructed through Structure from Motion (SfM), Multi-View Stereo (MVS), Surface Reconstruction and Texture Mapping. More details can be found in our paper.
 
+![Overview](https://github.com/DirtyHarryLYL/SRDA-Dataset/blob/master/img/overview.PNG)
+
 Process:
 
 iPhone video sequence --(SfM)--> Sparse Point Cloud --(MVS)--> Dense Point Cloud --(Possion SR)--> Mesh --(UV Mapping)--> Rough Model --(Semi-automatic Edited) --> Final Model
