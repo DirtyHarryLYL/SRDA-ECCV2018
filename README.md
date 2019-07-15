@@ -1,4 +1,4 @@
-# Dataset: Instance-60k & 3D Object Models from SRDA
+# Instance-60k & 3D Object Models from SRDA (ECCV2018)
 
 **SRDA: Generating Instance Segmentation Annotation via Scanning, Reasoning and Domain Adaptation**
 
